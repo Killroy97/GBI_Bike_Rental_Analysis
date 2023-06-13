@@ -4,9 +4,9 @@
 
 **Project Summary**
 
-The Cyclistic Customer Insights project focuses on analyzing customer data from the bike-sharing service in New York City, provided by Cyclistic. The project's objective is to gain valuable insights into customer behavior, preferences, and demand patterns to inform the company's business planning and growth strategies.  
+The **Cyclistic Customer Insights project** focuses on analyzing customer data from the bike-sharing service in New York City, provided by Cyclistic. The project's objective is to gain valuable insights into customer behavior, preferences, and demand patterns to inform the company's business planning and growth strategies.  
 Cyclistic, in partnership with the city of New York, provides shared bikes across Manhattan and neighboring boroughs. As part of the business planning process, the Cyclistic Customer Growth Team aims to understand customer demand at different station locations. To achieve this, the team has collected comprehensive data on customer trips, including start and end times, locations, bike identification numbers, and customer types.  
-The goal of this project is to grow Cyclistic's customer base by gaining insights into customer preferences, successful product features, and identifying potential station growth opportunities. By analyzing the large dataset of millions of rides, we will create a comprehensive dashboard that summarizes key insights for the leadership team.
+The **goal of this project** is to grow Cyclistic's customer base by gaining insights into customer preferences, successful product features, and identifying potential station growth opportunities. By analyzing the large dataset of millions of rides, we will create a comprehensive dashboard that summarizes key insights for the leadership team.
 
 ## Table of Contents
 
