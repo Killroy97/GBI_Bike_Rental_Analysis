@@ -5,10 +5,8 @@
 **Project Summary: Cyclistic Customer Insights**
 
 The Cyclistic Customer Insights project focuses on analyzing customer data from the bike-sharing service in New York City, provided by Cyclistic. The project's objective is to gain valuable insights into customer behavior, preferences, and demand patterns to inform the company's business planning and growth strategies.  
-By exploring the extensive dataset of customer trips, including start and end times, locations, bike identification numbers, and customer types, the project aims to answer key questions such as how customers use the bikes, which station locations are in high demand, and how weather conditions affect customer activity levels.  
-The project will deliver an interactive dashboard with visualizations that summarize the key insights for the Cyclistic leadership team. These visualizations include starting and ending station locations, popular destination locations, trends from the summer of 2015, year-over-year trip growth, congestion insights, and an overall analysis of the number of trips across different locations.  
-By leveraging these customer insights, Cyclistic can make data-driven decisions to grow its customer base, optimize station locations, and improve services to cater to customer preferences. Ultimately, the project aims to enhance the overall customer experience and drive the success of Cyclistic as a leading bike-sharing service in New York City.
-
+Cyclistic, in partnership with the city of New York, provides shared bikes across Manhattan and neighboring boroughs. As part of the business planning process, the Cyclistic Customer Growth Team aims to understand customer demand at different station locations. To achieve this, the team has collected comprehensive data on customer trips, including start and end times, locations, bike identification numbers, and customer types.  
+The goal of this project is to grow Cyclistic's customer base by gaining insights into customer preferences, successful product features, and identifying potential station growth opportunities. By analyzing the large dataset of millions of rides, we will create a comprehensive dashboard that summarizes key insights for the leadership team.
 
 ## Table of Contents
 
