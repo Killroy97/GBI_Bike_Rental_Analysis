@@ -29,9 +29,9 @@ The main objectives of this project could be listed as follows:
 
 
 ## Installation
-- The relevant Tableau files can be found in this repository. The files can be used in the following way: 
-a) Tableau workbook: The tableau workbook can be directly imported into Tableau Desktop or the public application on desktop. 
-b) The cleaned and Integrated dataset can be found to analyse the attributes or can be used to import into a new project to develop other visualisations. 
+- The relevant Tableau files can be found in this repository. The files can be used in the following way:  
+a) Tableau workbook: The tableau workbook can be directly imported into Tableau Desktop or the public application on desktop.   
+b) The cleaned and Integrated dataset can be found to analyse the attributes or can be used to import into a new project to develop other visualisations.   
 c) A pdf file is present to have a quick look!
 
 
