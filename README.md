@@ -51,6 +51,7 @@ b) Total trip minutes by the start station.
 c) Total trip minutes by the end station.  
 d) Total trips by Neighboorhood, color graded from minimum to maximum, represneted by months.  
 e) Total Trips, month wise from December 2018 to December 2020.  
+![Dashboard](https://github.com/srikar-mulgund97/GBI_Bike_Rental_Analysis/assets/132211845/b1bb5bce-c56c-4ee0-afab-4e33ff7fe858)  
 
 **Note:** The filters for the Area map are turned on, and a slicer has been provided for the subscriber type for the user to filter and analyse further. 
 
