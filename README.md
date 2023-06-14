@@ -59,7 +59,8 @@ The relevant Tableau files can be found in this repository. The Tableau Dashboar
 The files can be used in the following way:  
 a) Tableau workbook:once you navigate to the link, you can find the download button on the bottom right corner. If you choose to download the workbbok, please select approporiate version to get the best compatibility.  
 
-![image](https://github.com/srikar-mulgund97/GBI_Bike_Rental_Analysis/assets/132211845/8734ea49-56d1-42fc-97cb-1487b1e6f386)  
+![image](https://github.com/srikar-mulgund97/GBI_Bike_Rental_Analysis/assets/132211845/8734ea49-56d1-42fc-97cb-1487b1e6f386)  ![image](https://github.com/srikar-mulgund97/GBI_Bike_Rental_Analysis/assets/132211845/147e646b-f939-4f63-abe3-69721c9fc0a6)
+
 
 b) The cleaned and Integrated dataset can be found [here](Insert link here) to analyse the attributes or can be used to import into a new project to develop other visualisations.   
 c) A pdf file is present to have a quick look!
