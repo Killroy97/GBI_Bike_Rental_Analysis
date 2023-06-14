@@ -57,8 +57,10 @@ e) Total Trips, month wise from December 2018 to December 2020.
 ## Installation
 The relevant Tableau files can be found in this repository. The Tableau Dashboard can be directly downloaded [here](https://public.tableau.com/views/TripDataforaScooterRentalCompany/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 The files can be used in the following way:  
-a) Tableau workbook:once you navigate to the link, you can find the download button on the bottom right corner. If you choose to download the workbbok, please select approporiate version to get the best compatibility.
-![image](https://github.com/srikar-mulgund97/GBI_Bike_Rental_Analysis/assets/132211845/8734ea49-56d1-42fc-97cb-1487b1e6f386)
+a) Tableau workbook:once you navigate to the link, you can find the download button on the bottom right corner. If you choose to download the workbbok, please select approporiate version to get the best compatibility.  
+
+![image](https://github.com/srikar-mulgund97/GBI_Bike_Rental_Analysis/assets/132211845/8734ea49-56d1-42fc-97cb-1487b1e6f386)  
+
 b) The cleaned and Integrated dataset can be found [here](Insert link here) to analyse the attributes or can be used to import into a new project to develop other visualisations.   
 c) A pdf file is present to have a quick look!
 
