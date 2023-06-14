@@ -27,7 +27,7 @@ The main objectives of this project could be listed as follows:
 6. Assess congestion at stations and analyze the net flow of bikes in and out of each station.    
 7. Explore the overall number of trips across various starting and ending locations.    
 
-**Description and Process** 
+**Description and Process**   
 **Data Pre-processing**  
 The datset was provided by Google, as a part of Google Business Intelligence Professional Certificate. The Project planning documents such as the stakeholder, project and stratgeic documents were drafted to highlight the project process, important KPIs and to create an overall understanding of a real workspace scenario.   
 
