@@ -1,4 +1,4 @@
-# Exploring a Business Scenario with GCP and Tableau.
+# Exploring a Business Scenario with GCP and Tableau - Cyclistic Customer Insights
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
