@@ -62,7 +62,7 @@ a) Tableau workbook:once you navigate to the link, you can find the download but
 ![image](https://github.com/srikar-mulgund97/GBI_Bike_Rental_Analysis/assets/132211845/8734ea49-56d1-42fc-97cb-1487b1e6f386)      ![image](https://github.com/srikar-mulgund97/GBI_Bike_Rental_Analysis/assets/132211845/147e646b-f939-4f63-abe3-69721c9fc0a6)
 
 
-b) The cleaned and Integrated dataset can be found [here](Integrated Dataset.zip) to analyse the attributes or can be used to import into a new project to develop other visualisations.   
+b) The cleaned and Integrated dataset can be found "[here](Integrated Dataset.zip)" to analyse the attributes or can be used to import into a new project to develop other visualisations.   
 c) A pdf file is present to have a quick look!
 
 Please ensure that you adhere to the project's coding conventions, documentation guidelines, and code of conduct.
